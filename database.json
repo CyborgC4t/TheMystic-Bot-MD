@@ -531,7 +531,7 @@
       "emas": 0,
       "emerald": 0,
       "esteh": 0,
-      "exp": 433,
+      "exp": 507,
       "expg": 0,
       "exphero": 0,
       "expired": 0,
@@ -852,7 +852,7 @@
         "step": null,
         "soal": null
       },
-      "lastCommandTime": 1704279178100,
+      "lastCommandTime": 1704327969828,
       "commandCount": 1,
       "premiumDate": -1,
       "catexp": 0,
@@ -5767,14 +5767,39 @@
       "modoadmin": false,
       "simi": false,
       "expired": 0
+    },
+    "5217713734841-1592398359@g.us": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detect2": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "antidelete": false,
+      "modohorny": true,
+      "autosticker": false,
+      "audios": true,
+      "antiLink": false,
+      "antiLink2": false,
+      "antiviewonce": false,
+      "antiToxic": false,
+      "antiTraba": false,
+      "antiArab": false,
+      "antiArab2": false,
+      "antiporno": false,
+      "modoadmin": false,
+      "simi": false,
+      "expired": 0
     }
   },
   "stats": {
     "menus-menu.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1703594759808,
-      "lastSuccess": 1703594759808
+      "total": 4,
+      "success": 4,
+      "last": 1704327969862,
+      "lastSuccess": 1704327969862
     },
     "descargas-play.js": {
       "total": 5,
